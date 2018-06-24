@@ -15,6 +15,13 @@
 }
 
 /* Select the image with class of emerald */
+.emerald  {
+  position: absolute;
+  z-index: 2;
+  top: 350px;
+  left: 369px;
+}
+
 
 /*selector for emerald goes here */  {
   position: absolute;
